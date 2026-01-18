@@ -8,5 +8,5 @@ def factorial(n: int) -> int:
 
 
 if __name__ == "__main__":
-    n = 5
+    n = 8
     print(f"{n}! = {factorial(n)}")
